@@ -1,4 +1,4 @@
-name: Android Builder (Home UI)
+name: Android Builder (APK Builder)
 
 on:
   push:

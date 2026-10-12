@@ -1,8 +1,6 @@
 {
-  "name": "Home UI",
-  "description": "Launcher Android leve, fluido e personalizável com suporte a papéis de parede animados, pacotes de ícones e bloqueio biométrico.",
+  "name": "APK Builder",
+  "description": "Compilador Android automático que compila códigos-fonte ZIP via GitHub Actions e gera arquivos APK prontos para download.",
   "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
